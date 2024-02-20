@@ -1,4 +1,4 @@
-Source: quarkos-build-dep
+Source: lingmoos-build-dep
 Section: devel
 Priority: optional
 Maintainer: Elysia <ganyuanzhen@vip.qq.com>

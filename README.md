@@ -1,1 +1,1 @@
-# Dependency for QuarkOS build
+# Dependency for LingmoOS build

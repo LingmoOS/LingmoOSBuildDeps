@@ -1,6 +1,6 @@
 # Dependency for LingmoOS build
 
-Using following commands to generate this package:
+Use following commands to generate this package:
 
 ```shell
 $ mk-build-deps
@@ -8,4 +8,4 @@ $ mk-build-deps
 
 # Why this?
 
-Making it easier to rmeove building depends after build. Just remove this package and run  `apt autoremove --purge` 
+Making it easier to remove build dependencies after build. Just remove this package and run  `apt autoremove --purge` 
